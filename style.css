@@ -1,0 +1,96 @@
+time{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+
+.illustration{
+    width: 60%;
+    height: 60%;
+    position: relative;
+    margin-left: 4rem;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    float: left;
+}
+
+.timer-container{
+    width: 24rem;
+    height: 24rem;
+    background-color: rgba(0, 0, 0, 0);
+    display: inline-block;
+    margin-top: 10%;
+    margin-bottom: auto;
+    margin-right: 4rem;
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 6rem;
+    text-align: center;
+    color: #4756df;
+    
+
+}
+
+.time{
+    display: block;
+}
+
+span{
+    display: inline-block;
+    margin-bottom: 4rem;
+}
+
+.start-btn{
+    display: block;
+    width: 100%;
+    margin-top: -3rem;
+    margin-bottom: 1.3rem;
+}
+
+.left-btn{
+    float: left;
+}
+.right-btn{
+    float: right;
+    
+}
+
+button{
+    background-color: #3ec1f3;
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 1.5rem;
+    border: none;
+    padding: 10%;
+}
+
+button:hover{
+    background-color: #4756df;
+    color: white;
+}
+
+
+html{
+    background-color: bisque;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+}
